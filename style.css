@@ -1,0 +1,65 @@
+
+.app{
+	margin: 0;
+	padding: 0;
+	background-color: #23252C;
+	box-sizing: border-box;
+}
+.Main{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	box-sizing: border-box;
+	height: 620px;
+	color: white;
+}
+.images{
+	width: 230px;
+	height: 230px;
+	padding: 20px 0 0 0;
+	border-top-left-radius: 20px;
+}
+.Main_child{
+	background-color: #1A1B21;
+	width: 230px;
+	height: 300px;
+}
+.Title-paragraph{
+	line-height: 2px;
+}
+.email_input{
+	border-radius: 5px;
+	text-align: center;
+	color: #1A1B21;
+	border: 1px solid #1A1B21;
+	height: 20px;
+	width: 220px;
+	background-color: wheat;
+}
+.fa-solid{
+	text-align: center;
+	position: relative;
+	right: 20px;
+	bottom: 20px;
+	color: #1A1B21;
+	font-size: 10px;
+}
+.SPan{
+	color: #1A1B21;
+	margin-left: 5px;
+	font-size: 10px;
+}
+.paragraph{
+	font-size: 10px;
+}
+.foote{
+	background-color: #161619;
+	width: 230px;
+	height: 30px;
+	border-radius: 5px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
