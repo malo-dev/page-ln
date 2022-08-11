@@ -36,10 +36,11 @@ const Main_child = () => {
 			<div className="paragraph">
 				<h3> About </h3>
 				<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. In odit illum commodi cum necessitatibus nihil ipsam consequuntur deserunt veritatis repudiandae?</p>
+				<h3>Interest</h3>
 				<p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. A nemo quisquam quia necessitatibus, magnam explicabo consequuntur deleniti odio debitis cum? </p>
 			</div>
 			<div className="paragraph">
-				<h3>Interest</h3>
+				
 				<p> Frontend Developer </p>
 				<p> laurasmith.website </p>
 			</div>
